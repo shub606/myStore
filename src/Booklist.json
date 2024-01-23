@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A classic novel about the struggles of a teenage boy named Holden Caulfield as he navigates the challenges of adolescence.",
+      "image": "https://example.com/catcher-in-the-rye.jpg",
+      "category": "Fiction"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A powerful story set in the American South during the 1930s, addressing racial injustice and moral growth through the eyes of a young girl.",
+      "image": "https://example.com/to-kill-a-mockingbird.jpg",
+      "category": "Historical Fiction"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel set in a totalitarian society, exploring themes of surveillance, censorship, and individual freedom.",
+      "image": "https://example.com/1984.jpg",
+      "category": "Science Fiction"
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A tale of wealth, love, and the American Dream set in the Roaring Twenties, narrated by Nick Carraway.",
+      "image": "https://example.com/great-gatsby.jpg",
+      "category": "Classic"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "description": "The first book in the magical series, following the adventures of a young wizard named Harry Potter.",
+      "image": "https://example.com/harry-potter.jpg",
+      "category": "Fantasy"
+    },
+    {
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy novel that follows the journey of Bilbo Baggins as he helps a group of dwarves reclaim their kingdom from the dragon Smaug.",
+      "image": "https://example.com/the-hobbit.jpg",
+      "category": "Fantasy"
+    },
+    {
+      "id": 7,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel that explores themes of love, class, and manners in early 19th-century England.",
+      "image": "https://example.com/pride-and-prejudice.jpg",
+      "category": "Romance"
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "description": "An epic fantasy trilogy that follows the quest to destroy the One Ring and defeat the dark lord Sauron.",
+      "image": "https://example.com/lotr.jpg",
+      "category": "Fantasy"
+    },
+    {
+      "id": 9,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "description": "A dystopian novel that explores a future society where technology, conditioning, and conformity control every aspect of life.",
+      "image": "https://example.com/brave-new-world.jpg",
+      "category": "Science Fiction"
+    },
+    {
+      "id": 10,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "description": "An ancient Greek epic poem that follows the hero Odysseus as he tries to return home after the Trojan War.",
+      "image": "https://example.com/odyssey.jpg",
+      "category": "Classic"
+    },
+    {
+      "id": 11,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "description": "A dystopian novel set in a post-apocalyptic world where young people are forced to participate in a televised fight to the death.",
+      "image": "https://example.com/hunger-games.jpg",
+      "category": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "description": "A classic novel that follows the life of the orphan Jane Eyre, exploring themes of love, morality, and social class.",
+      "image": "https://example.com/jane-eyre.jpg",
+      "category": "Classic"
+    },
+    {
+      "id": 13,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel that follows the journey of a young Andalusian shepherd named Santiago as he seeks his personal legend.",
+      "image": "https://example.com/the-alchemist.jpg",
+      "category": "Philosophical Fiction"
+    },
+    {
+      "id": 14,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "description": "A dystopian novel set in a future society where books are banned and 'firemen' burn any that are found.",
+      "image": "https://example.com/fahrenheit-451.jpg",
+      "category": "Science Fiction"
+    },
+    {
+      "id": 15,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "description": "A novel that tells the story of Captain Ahab's obsessive quest for revenge against the white whale, Moby-Dick.",
+      "image": "https://example.com/moby-dick.jpg",
+      "category": "Adventure"
+    },
+    {
+      "id": 16,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "description": "A series of seven fantasy novels that take readers to the magical land of Narnia and its diverse inhabitants.",
+      "image": "https://example.com/narnia.jpg",
+      "category": "Fantasy"
+    },
+    {
+      "id": 17,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "description": "A magical realist novel that follows the Buendía family over seven generations in the fictional town of Macondo.",
+      "image": "https://example.com/one-hundred-years-of-solitude.jpg",
+      "category": "Magical Realism"
+    },
+    {
+      "id": 18,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "description": "A horror novel that follows the Torrance family as they stay in the haunted Overlook Hotel during the winter.",
+      "image": "https://example.com/the-shining.jpg",
+      "category": "Horror"
+    },
+    {
+      "id": 19,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "description": "A Gothic novel that explores the passionate and destructive love story between Heathcliff and Catherine Earnshaw.",
+      "image": "https://example.com/wuthering-heights.jpg",
+      "category": "Gothic"
+    },
+    {
+      "id": 20,
+      "title": "Example Book",
+      "author": "Example Author",
+      "description": "An example book with an example description.",
+      "image": "https://example.com/example-book.jpg",
+      "category": "Example Category"
+    }
+  ]
+  
